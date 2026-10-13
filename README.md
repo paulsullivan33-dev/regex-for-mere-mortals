@@ -43,7 +43,7 @@ type — use it while reading this guide).
 ## A note on verification
 
 Every pattern in this guide was executed against Python 3.12's `re`
-module (and `grep -E` where shown) before shipping — 60+ assertions,
+module (and `grep -E` where shown) before shipping — 75 assertions,
 all green. Where behavior differs between regex flavors, it's called
 out explicitly instead of smoothed over.
 
